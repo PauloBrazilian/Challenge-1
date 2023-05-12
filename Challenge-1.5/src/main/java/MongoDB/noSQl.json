@@ -1,0 +1,22 @@
+{
+  "Person" : {
+  "Object" : "User",
+  "Name" : "Paulo",
+  "Age" : 19,
+  "Phone" : 24565,
+  "Height" : 1.75,
+  "Email" : "User@gmail.com",
+  "Cpf" : 234890567,
+  "Birthday" : "16-04-2004",
+  "address" : "Street of canary"
+  },
+  "Address" : {
+    "zip" : "0294568",
+    "Street" : "Street of canary",
+    "Complement" : "Blue canary Statue",
+    "neighborhood" : "Blues",
+    "City" : "Birds",
+    "State" : "BD",
+    "Country" : "Tree"
+  }
+}
